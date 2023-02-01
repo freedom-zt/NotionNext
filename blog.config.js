@@ -12,7 +12,7 @@ const BLOG = {
 
   AUTHOR: 'freedom-zt', // 作者
   BIO: '一个普通的干饭人🍚', // 作者简介
-  LINK: 'https://tangly1024.com', // 网站地址
+  LINK: 'https://notion-next-freedom-zt.vercel.app', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'zt345564023@gmail.com', // 邮箱
