@@ -3,7 +3,7 @@
   "version": "3.8.2",
   "license": "MIT",
   "author": {
-    "name": "freedom-zt",
+    "name": "freedom-zt"
   },
   "scripts": {
     "dev": "next dev",
